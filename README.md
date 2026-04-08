@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Farish 👋
 
-<!--
-**Farixh/Farixh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 DevOps Engineer | AWS Certified DevOps Professional  
 
-Here are some ideas to get you started:
+## 🔧 Skills
+- AWS (EC2, S3, VPC, ALB, Auto Scaling, CloudWatch, Lambda)
+- CI/CD (Jenkins, CodePipeline, CodeDeploy)
+- Linux & Bash Scripting
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Projects
+- CI/CD Pipeline using AWS & Jenkins
+- Auto-Healing Infrastructure on AWS
+
+## 📫 Contact
+- LinkedIn: https://linkedin.com/in/farish98
