@@ -1,5 +1,9 @@
 <img width="1200" height="300" alt="farish-banner-cropped" src="https://github.com/user-attachments/assets/bcb30b97-140b-456b-994e-7f365584899f" />
 
+---
+
+<!-- 🔥 ABSTRACT DEVOPS BANNER -->
+
 <h1 align="center">Hi, I'm Farish 👋</h1>
 
 <p align="center">
@@ -10,10 +14,13 @@
 
 ## 🧠 About Me
 
-* 💡 Passionate about **Cloud & DevOps Automation**
-* ⚙️ Skilled in **AWS, CI/CD, Infrastructure Automation**
-* 🔁 Focused on building **self-healing & scalable systems**
-* 📈 Transitioned into DevOps with real-world projects
+I’m a **DevOps Engineer focused on automation, scalability, and cloud infrastructure**, with hands-on experience building real-world systems on AWS.
+
+* ⚙️ Designed **CI/CD pipelines** using Jenkins for automated deployments
+* ☁️ Built cloud infrastructure using **EC2, Auto Scaling, ALB, Lambda, CloudWatch**
+* 🔄 Implemented **self-healing systems** for automatic failure recovery
+* 🐧 Strong in **Linux operations & Bash scripting**
+* 🚀 Focused on improving **deployment speed, reliability, and uptime**
 
 ---
 
@@ -38,26 +45,30 @@
 
 ## 🚀 Featured Projects
 
-### 🔹 CI/CD Pipeline using AWS & Jenkins
+### 🔹 CI/CD Pipeline using Jenkins & AWS
 
-* Automated build, test, and deployment pipeline
-* Integrated Jenkins with EC2 & CodeDeploy
-* Reduced manual deployment effort
+* Automated deployment from GitHub → EC2
+* Reduced manual deployment effort by ~60%
+* Implemented real-time code updates using Jenkins
 
 ---
 
 ### 🔹 Auto-Healing Infrastructure on AWS
 
-* Built fault-tolerant EC2 architecture
-* Used Auto Scaling + CloudWatch + Lambda
+* Built fault-tolerant architecture using Auto Scaling
 * Enabled automatic recovery from failures
+* Achieved high availability with zero downtime
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NotHarshhaa&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=fxrysh&show_icons=true&theme=tokyonight&cache_seconds=1800" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fxrysh&theme=tokyonight" />
 </p>
 
 ---
@@ -67,3 +78,4 @@
 * LinkedIn: https://linkedin.com/in/farish98
 
 ---
+
