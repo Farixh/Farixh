@@ -1,3 +1,5 @@
+<img width="1200" height="300" alt="farish-banner-cropped" src="https://github.com/user-attachments/assets/bcb30b97-140b-456b-994e-7f365584899f" />
+
 <h1 align="center">Hi, I'm Farish 👋</h1>
 
 <p align="center">
